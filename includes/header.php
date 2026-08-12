@@ -24,7 +24,7 @@ $canonical = SITE_URL . '/' . ($current === 'index.php' ? '' : $current);
 <meta name="theme-color" content="#123f75">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 <link rel="stylesheet" href="assets/css/style.css">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Signifive Services","url":"<?= SITE_URL ?>","email":"<?= SITE_EMAIL ?>","telephone":"<?= SITE_PHONE ?>","address":{"@type":"PostalAddress","streetAddress":"<?= addslashes(SITE_ADDRESS) ?>","addressLocality":"Karachi","addressCountry":"PK"}}</script>
